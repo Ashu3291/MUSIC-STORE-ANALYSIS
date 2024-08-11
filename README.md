@@ -16,8 +16,28 @@ Usage
 Import the dataset into your SQL database management system.
 Run SQL queries located in the SQL_Music_Store_Project.sql file against the database to perform data analysis and generate insights.
 
-Contributing
-Contributions to this project are welcome. If you have suggestions for improvements or find any issues, feel free to open a pull request or submit an issue in the repository.
+
+Below are the general insights:
+
+- USA is the most popular country for music purchases with 1051 purchases followed by Canada and Brazil with 541 and 432 purchases respectively.
+- Rock music is the top selling genre with $26752 spent.
+- Queens is the top selling artist.
+- Prague has the highest sales volume.
+- MPEG audio file sells the most.
+- 90's Music is the most popular playlist.
+- The month of April had the highest sales.
+
+WHAT I LEARNED -
+- Joining tables.
+- Using sub queries.
+- Using aggregate and ranking window functions.
+- Using common table expressions (CTE)
 
 References
 https://www.youtube.com/watch?v=VFIuIjswMKM (source: www.youtube.com/@RishabhMishraOfficial)
+
+
+Contributing
+Contributions to this project are welcome. If you have suggestions for improvements or find any issues, feel free to open a pull request or submit an issue in the repository.
+
+

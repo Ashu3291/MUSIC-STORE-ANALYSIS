@@ -27,7 +27,7 @@ Below are the general insights:
 - 90's Music is the most popular playlist.
 - The month of April had the highest sales.
 
-WHAT I LEARNED -
+What I learned -
 - Joining tables.
 - Using sub queries.
 - Using aggregate and ranking window functions.
